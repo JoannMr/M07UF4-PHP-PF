@@ -33,7 +33,6 @@ El projecte es divideix en:
 
 ### 1️⃣ Clona el projecte:
 ```bash
-git clone https://github.com/joanmerino/gestor-productes.git
 cd gestor-productes
 ```
 
